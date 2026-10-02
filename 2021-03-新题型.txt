@@ -1,5 +1,3 @@
-Directions: In the following text, some sentences have been removed. For Questions 41-45, choose the most suitable one from the list A-G to fit into each of the numbered blanks. There are two extra choices, which do not fit in any of the blanks. Mark your answers on the ANSWER SHEET. (10 points).
-
 In the movies and on television, artificial intelligence (AI) is typically depicted as something sinister that will upend our way of life. When it comes to AI in business, we often hear about it in relation to automation and the impending loss of jobs, but in what ways is AI changing companies and the larger economy that don’t involve doom-and-gloom mass unemployment predictions? A recent survey of manufacturing and service industries from Tata Consultancy Services found that companies currently use AI more often in computer-to-computer activities than in automating human activities. Here are a few ways AI is aiding companies without replacing employees:
 
 Better hiring practices
