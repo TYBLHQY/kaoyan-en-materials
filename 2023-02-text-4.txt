@@ -6,9 +6,7 @@ The advent of electronic publishing and authors’ need to find outlets for thei
 
 How insidious is this type of citation manipulation? In one example, an individual — acting as author, editor, and consultant — was able to use at least 15 journals as citation providers to articles published by five scientists at three universities. The problem is rampant in Scopus, a citation database, which includes a high number of the new “international” journals. In fact, a listing in Scopus seems to be a criterion to be targeted in this type of citation manipulation.
 
-Scopus itself has all the data necessary to detect this malpractice. Red flags include a
-
-large number of citations to an article within the first year. And for authors who wish to steer clear of citation cartel activities: when an editor, a reviewer, or a support service asks you to add inappropriate references, do not oblige and do report the request to the journal.
+Scopus itself has all the data necessary to detect this malpractice. Red flags include a large number of citations to an article within the first year. And for authors who wish to steer clear of citation cartel activities: when an editor, a reviewer, or a support service asks you to add inappropriate references, do not oblige and do report the request to the journal.
 
 36. According to Paragraph 1, the careers of scientists can be determined by ____
 
